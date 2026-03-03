@@ -22,7 +22,7 @@
 
 ## Qué hacemos
 
-En Mictlán Labs diseñamos y desarrollamos aplicaciones web end‑to‑end: desde la interfaz y la experiencia, hasta APIs, datos y despliegues.
+En MictlánLabs diseñamos y desarrollamos aplicaciones web end‑to‑end: desde la interfaz y la experiencia, hasta APIs, datos y despliegues.
 Nos gusta el software sencillo de mantener, rápido en producción y claro para colaborar.
 
 **Principios**
